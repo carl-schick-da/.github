@@ -1,4 +1,4 @@
-## Welcome to My Data Analysis Portfolio
+## Data Analysis Portfolio
 See below for a list of projects you can explore.
 
 | Project | Power BI Report | GitHub Files |
